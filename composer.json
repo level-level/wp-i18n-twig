@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "twig/twig": "^3.0",
+        "twig/twig": ">=3.0 <3.29",
         "wp-cli/i18n-command": "^2.5"
     },
     "require-dev": {
