@@ -7,6 +7,11 @@
             "name": "Nicolas Lemoine",
             "email": "nico@n5s.dev",
             "homepage": "https://n5s.dev/"
+        },
+        {
+        "name": "Level Level",
+        "homepage": "https://level-level.com",
+        "role": "Maintainer"
         }
     ],
     "require": {
