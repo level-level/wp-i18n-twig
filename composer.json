@@ -1,5 +1,5 @@
 {
-    "name": "timber/wp-i18n-twig",
+    "name": "level-level/wp-i18n-twig",
     "description": "WordPress translations extraction for Twig files with WP-CLI",
     "type": "wp-cli-package",
     "authors": [
